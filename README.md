@@ -20,7 +20,7 @@ This repository contains an implementation of Region Adjacency Graph (RAG), a da
 If you have any questions, suggestions, or just want to connect, feel free to reach out:
 
 - **Your Name**
-- **Email:** isham.narayan@csio.res.in , ishannarayan.in@gmail.com
+- **Email:** ishan.narayan@csio.res.in , ishannarayan.in@gmail.com
 
 
 Feel free to contact me via email or reach out. I appreciate your feedback and contributions!
